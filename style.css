@@ -81,7 +81,7 @@ article:nth-child(even), div a[href="#top"] {
 div a[href="#top"]{
     position:fixed;
     bottom: 10px;
-    right: 10px;
+    right: 10%;
     padding: 10px;
     border-radius:10px;
     text-decoration: none;
